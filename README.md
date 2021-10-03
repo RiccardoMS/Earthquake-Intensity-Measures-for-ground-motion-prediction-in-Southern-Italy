@@ -5,3 +5,14 @@ Preliminary Analysis, clustering, Mixed Effect Model to predict Intensity measur
 
 Thanks to INGV for data and collaboration.
 
+# Authors
+Mirko Giovio
+
+Riccardo Scaramuzza
+
+Riccardo Sparacino
+
+Daniele Venturini
+
+Paolo Vergottini
+
